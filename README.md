@@ -38,7 +38,7 @@ Recommended strategic sourcing from Supplier G and other top green-rated supplie
 
 ---
 
-### 💻 Project 2: Terry White Chemmart Product Scraper  
+### 💻 Project 2: Web Product Scraper  
 **Tools:** Python (Requests, BeautifulSoup, Pandas, Regex)  
 **Focus:** Data Automation, Web Scraping, Data Cleaning  
 
@@ -69,3 +69,4 @@ Achieved fully cleaned and validated product datasets across multiple categories
 
 ## 🔹 References
 Available upon request.
+
